@@ -36,3 +36,10 @@ bump the version in `manifest.json` and rebuild:
 - `teams.microsoft.us` (US government clouds) is not covered.
 - It relies on Teams' current banner markup. If Microsoft changes it, the banner
   comes back rather than anything else being hidden.
+
+## License
+
+[MIT](LICENSE). The notice phrases in `notices.js` are Microsoft's own wording
+and are not covered by this license.
+
+This is an independent project and is not affiliated with or endorsed by Microsoft.
